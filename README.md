@@ -52,7 +52,7 @@ A daily todo list app using React-Native
 
 <p float="left">
   <img src="images/screenshot2.jpg" width="30%" />
-  <img src="images/screenshot3.jpg" width="30%" /> 
+  <img src="images/screenshot3.jpg" width="40%" /> 
   <img src="images/screenshot4.jpg" width="30%" />
 </p>
 [product-screenshot2]: images/screenshot2.jpg
