@@ -50,14 +50,6 @@ A daily todo list app using React-Native
 
 [![Product Name Screen Shot][product-screenshot]](https://diflin.in/)
 
-<p float="left">
-  <img src="images/screenshot2.jpg" width="32%" />
-  <img src="images/screenshot3.jpg" width="30%" /> 
-  <img src="images/screenshot4.jpg" width="32%" />
-</p>
-[product-screenshot2]: images/screenshot2.jpg
-[product-screenshot3]: images/screenshot3.jpg
-[product-screenshot4]: images/screenshot4.jpg
 
 
 <p align="center">
@@ -90,6 +82,13 @@ Once you're up and running with Create React Native App, visit [this tutorial](h
 
 <p align="center">
   <img align="center" alt="Product: demo" src="https://media.giphy.com/media/JsnUgag6Lebswl9xyz/giphy.gif" />
+</p>
+
+
+<p float="left">
+  <img src="images/screenshot2.jpg" width="32%" />
+  <img src="images/screenshot3.jpg" width="30%" /> 
+  <img src="images/screenshot4.jpg" width="32%" />
 </p>
 
 ## Features
