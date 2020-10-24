@@ -51,9 +51,9 @@ A daily todo list app using React-Native
 [![Product Name Screen Shot][product-screenshot]](https://diflin.in/)
 
 <p float="left">
-  <img src="images/screenshot2.jpg" width="100" />
-  <img src="images/screenshot3.jpg" width="100" /> 
-  <img src="images/screenshot4.jpg" width="100" />
+  <img src="images/screenshot2.jpg" width="30%" />
+  <img src="images/screenshot3.jpg" width="30%" /> 
+  <img src="images/screenshot4.jpg" width="30%" />
 </p>
 [product-screenshot2]: images/screenshot2.jpg
 [product-screenshot3]: images/screenshot3.jpg
