@@ -48,7 +48,16 @@ A daily todo list app using React-Native
 <!-- ABOUT THE PROJECT -->
 ## View of This Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://diflin.in/)
+
+<p float="left">
+  <img src="images/screenshot2.jpg" width="30%" />
+  <img src="images/screenshot3.jpg" width="30%" /> 
+  <img src="images/screenshot4.jpg" width="30%" />
+</p>
+[product-screenshot2]: images/screenshot2.jpg
+[product-screenshot3]: images/screenshot3.jpg
+[product-screenshot4]: images/screenshot4.jpg
 
 There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need.
 
@@ -155,4 +164,7 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 [license-url]: https://github.com/sudiptarana/ToDo-List/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/sudipta-rana/
-[product-screenshot]: images/screenshot1.jpg
+[product-screenshot]: images/screenshot.jpg
+[product-screenshot2]: images/screenshot2.jpg
+[product-screenshot3]: images/screenshot3.jpg
+[product-screenshot4]: images/screenshot4.jpg
