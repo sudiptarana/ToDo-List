@@ -242,7 +242,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Sudipta Rana - [@your_linkedin](https://www.linkedin.com/in/sudipta-rana/) - info.diflin@gmail.com
+Sudipta Rana - [@linkedin](https://www.linkedin.com/in/sudipta-rana/) - info.diflin@gmail.com
 
 Project Link: [https://github.com/sudiptarana/ToDo-List](https://github.com/sudiptarana/ToDo-List)
 
